@@ -17,10 +17,10 @@
 <div class="row no-gutters ">
 <div class="col-sm-5 col-md-5 col-lg-5">
 
-<h3>Das ehemalige<br />
+<h4>Das ehemalige<br />
 Amtsgebäude wird zu<br />
 exklusiven Wohnungen<br />
-umgebaut…</h3>
+umgebaut…</h4>
 <p><em>Typologie</em><br />
 Mehrfamilienhaus
 <em>Status</em><br />

@@ -16,13 +16,13 @@
 <div class="modalphotos photogrid clearfix"> <!-- modalphotos -->
 <div class="row no-gutters ">
 <div class="col-sm-5 col-md-5 col-lg-5">
-<h3>Realisierung Neubau
-Gebäudeensemble
-Einfamilienhaus und
-Appartementhaus mit 8
-Wohneinheiten und
+<h4>Realisierung Neubau<br />
+Gebäudeensemble<br />
+Einfamilienhaus und<br />
+Appartementhaus mit 8<br />
+Wohneinheiten und<br />
 Tiefgarage </br>
-in Stuttgart, Lindental</h3>
+in Stuttgart, Lindental</h4>
 <p><em>Typologie</em><br />
 Einfamilienhaus und Appartementhaus
 mit 8 Wohneinheiten und Tiefgarage<br /><br />

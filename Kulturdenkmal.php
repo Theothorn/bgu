@@ -16,13 +16,13 @@
     
 <div class="modalphotos photogrid clearfix"> <!-- modalphotos -->
 <div class="row no-gutters ">
-<div class="col-sm-5 col-md-5 col-lg-5">
-<h3>Planung und Realisierung <br />
+<div class="col-sm-4 col-md-4 col-lg-4">
+<h4>Planung und Realisierung <br />
 Restaurierung<br />
 Kulturdenkmal<br />
 Mehrfamilienhaus mit 5<br />
 Wohnungen in Stuttgart,<br />
-Hahnstraße</h3>
+Hahnstraße</h4>
 <p><em>Typologie</em><br />
 Mehrfamilienhaus mit 5 Wohnungen<br /><br />
 <em>Status</em><br />
@@ -37,16 +37,16 @@ xxxx<br /><br />
 xxx
 </p>
 </div>
-  <div class="col-sm-7 col-md-7 col-lg-7"><img src="images/kulturdenkmal/kulturdenkmal1_tn.jpg">
+  <div class="col-sm-7 col-sm-offset-1 col-md-7 col-md-offset-1 col-lg-7 col-lg-offset-1"><img src="images/kulturdenkmal/kulturdenkmal1_tn.jpg">
     <div class="row no-gutters"><!-- 2.Reihe -->
-      <div class="col-sm-6 col-md-6"><img src="images/kulturdenkmal/Kulturdenkmal21_tn.jpg"></div>
+      <div class="col-sm-6 col-md-6"><img src="images/kulturdenkmal/kulturdenkmal21_tn.jpg"></div>
       <div class="col-sm-6 col-md-6">
 		<div class="row no-gutters">
-		  <div class="col-md-12"><img src="images/kulturdenkmal/Kulturdenkmal22o_tn.jpg">
+		  <div class="col-md-12"><img src="images/kulturdenkmal/kulturdenkmal22o_tn.jpg">
 			<div class="row no-gutters">
-			  <div class="col-md-12"><img src="images/kulturdenkmal/Kulturdenkmal22u_tn.jpg"></div>
+			  <div class="col-md-12"><img src="images/kulturdenkmal/kulturdenkmal22u_tn.jpg"></div>
 			    <div class="row no-gutters"><!-- 3. Reihe -->
-					<div class="col-md-12"><img src="images/kulturdenkmal/Kulturdenkmal32_tn.jpg"></div>
+					<div class="col-md-12"><img src="images/kulturdenkmal/kulturdenkmal32_tn.jpg"></div>
 				</div><!-- 3. Reihe -->
 			</div>
 		  </div>

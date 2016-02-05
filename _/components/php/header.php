@@ -11,7 +11,7 @@
 	</div>
 
     <ul class="nav navbar-nav navbar-right">
-        <li><a href="ueber_mich.php">Über mich </a></li>
+        <li><a href="uns.php">Über uns</a></li>
     </ul>
   </div>
  
